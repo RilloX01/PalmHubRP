@@ -1,7 +1,6 @@
 ---
 name: Bug Report
-about: Tracking of bugs for Royalty Roleplay! Follow the below steps to submit a bug
-  report!
+about: Tracking of bugs for PalmHubRP! Follow the below steps to submit a bug report!
 title: "[BUG] - ISSUE"
 labels: bug
 assignees: ''
